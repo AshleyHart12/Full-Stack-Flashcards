@@ -1,0 +1,27 @@
+#homeButton {
+    border-right: .5px solid;
+    margin-top: 20px;
+}
+
+#savedButton, #homeButton, #navbar {
+    font-family: 'Dancing Script', cursive;
+    /* z-index: 99; */
+    /* width: 100%; */
+    margin-top: 30px;
+    font-size: 30px;
+    padding: 15px;
+
+}
+
+#questionBox {
+    border: 2px solid;
+    width: 600px;
+    height: 310px;
+    margin-left: 25%;
+    text-align: center;
+    margin-top: 75px;
+}
+
+#buttonBoxes {
+    
+}
